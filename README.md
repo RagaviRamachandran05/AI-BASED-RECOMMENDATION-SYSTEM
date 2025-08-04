@@ -48,3 +48,5 @@ Online Learning (Coursera, Udemy): Course recommendations based on previous inte
 News Apps: Suggesting articles based on user reading behavior.
 
 # OUTPUT
+
+![Image](https://github.com/user-attachments/assets/648e3592-b26d-454f-b3cc-0fd3546a8b0d)
